@@ -1,0 +1,13 @@
+Python Course from Sonata - https://lms.sonata-software.com/mod/scorm/player.php?a=155&currentorg=python_organization&scoid=327&sesskey=vkRVAAjIjD&display=popup&mode=normal
+
+From video 1 these resources are suggested 
+	https://aka.ms/python-getting-started
+	https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+
+	social 
+	https://geektrainer.dev
+	@geektrainer
+
+
+Tutorials
+https://docs.python.org/3.10/tutorial/index.html
